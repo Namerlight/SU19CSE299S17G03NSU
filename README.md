@@ -22,7 +22,7 @@
 5. [Features of the Project](https://github.com/Namerlight/SU19CSE299S17G03NSU/#5-Features-of-the-Project)
 6. [Features not Implemented](https://github.com/Namerlight/SU19CSE299S17G03NSU/#6-Features-not-Implemented)
 7. [Possible Future Updates](https://github.com/Namerlight/SU19CSE299S17G03NSU/#7-Possible-Future-Updates)
-8. [Possible Future Updates](https://github.com/Namerlight/SU19CSE299S17G03NSU/#8-Business-Plan)
+8. [Business Plan](https://github.com/Namerlight/SU19CSE299S17G03NSU/#8-Business-Plan)
 
 
 ## 1. Project 
