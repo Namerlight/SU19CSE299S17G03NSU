@@ -33,7 +33,7 @@ Currently, the website is a work in progress and is being hosted on Google Fireb
 
 ### [Trism](https://trism-def99.firebaseapp.com/)
 
-![Image](https://imgur.com/3nItedn)
+![Image](https://i.imgur.com/3nItedn.png)
 
 ## 2. Packages and Libraries Used
 
